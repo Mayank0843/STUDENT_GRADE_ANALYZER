@@ -85,7 +85,7 @@ Install Pandas before running the project.
 pip install pandas
 ```
 
----
+
 
 How to Run:
 
@@ -130,7 +130,7 @@ Conclusion:
 
 This project demonstrates how Python and Pandas can be used to analyze student academic records efficiently. It automates the calculation of Average, Median, Maximum, Minimum, and Grade, reducing manual work and improving accuracy. The project also provides a basic understanding of DataFrame operations, statistical functions, user-defined functions, and data sorting in Pandas.
 
----
+
 
 ## Author
 
