@@ -132,6 +132,6 @@ This project demonstrates how Python and Pandas can be used to analyze student a
 
 
 
-## Author
+Author:
 
 Mayank
